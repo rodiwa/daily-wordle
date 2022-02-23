@@ -13,6 +13,9 @@ This simple hack sends you daily wordles to your phone. Its uses a simple web sc
 - I deployed this code on an AWS Lambda.
 - Then I configured a simple Cloudwatch event rule (cron schedule) to run this at regular intervals.
 
+### What it looks like
+![Wordle on your phone](https://github.com/rodiwa/daily-wordle/blob/master/images/wordle-phone-screensot-small.jpg?raw=true)
+
 ### Versions
 Python 3.8.9
 pip 22.0.3
